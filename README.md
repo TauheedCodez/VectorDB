@@ -1,4 +1,4 @@
-# VectorDB — Build a Vector Database from Scratch in C++
+# VectorDB — Build a Vector Database Engine in C++
 
 A fully working **Vector Database** built in C++ with a web UI.  
 Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama.
